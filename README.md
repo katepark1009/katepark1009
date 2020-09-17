@@ -3,8 +3,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=katepark1009&color=ff69b4" alt="katepark1009" />
 
-- 👯 I’m looking to collaborate on **anything free and open source**
-
 - 👨‍💻 All of my projects are available at [https://github.com/katepark1009](https://github.com/katepark1009)
 
 - 💬 Ask me about **React, Node, Redux, Storybook**
