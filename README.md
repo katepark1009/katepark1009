@@ -11,7 +11,7 @@
 
 ### - Languages and Tools
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
