@@ -28,13 +28,8 @@
 ### Github stats
 
 <a href="https://github.com/katepark1009/katepark1009">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katepark1009&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/katepark1009/katepark1009">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=katepark1009&show_icons=true&line_height=27&count_private=true&theme=material-palenight&show_icons=true&hide=stars,issues" alt="Kate's github stats" />
 </a>
-
-[![Kate's github stats](https://github-readme-stats.vercel.app/api?username=katepark1009&theme=material-palenight&show_icons=true&hide=stars,issues)](https://github.com/katepark1009/github-readme-stats)
 
 <img src="https://komarev.com/ghpvc/?username=katepark1009&color=ff69b4" alt="katepark1009" />
 
