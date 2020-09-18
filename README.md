@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I love DIY! (knitting, painting, making miniature houses🏠, etc.)**
 
-### - Languages and Tools
+### Languages and Tools
 
 ![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=007BE0)
 ![](https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=white&color=007BE0)
@@ -22,7 +22,7 @@
 ![](https://img.shields.io/badge/-Storybook-informational?style=flat&logo=book&logoColor=white&color=007BE0)
 ![](https://img.shields.io/badge/-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=007BE0)
 
-## Github stats
+### Github stats
 
 [![Kate's github stats](https://github-readme-stats.vercel.app/api?username=katepark1009&theme=cobalt&show_icons=true&hide=stars,issues)](https://github.com/katepark1009/github-readme-stats)
 
