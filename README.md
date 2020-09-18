@@ -31,5 +31,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=katepark1009&show_icons=true&line_height=27&count_private=true&theme=material-palenight&show_icons=true&hide=stars,issues" alt="Kate's github stats" />
 </a>
 
+<a href="https://github.com/katepark1009/katepark1009">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katepark1009&layout=compact&hide=html" alt="Kate's github stats" />
+</a>
+
 <img src="https://komarev.com/ghpvc/?username=katepark1009&color=ff69b4" alt="katepark1009" />
 
