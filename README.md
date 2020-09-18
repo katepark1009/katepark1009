@@ -22,7 +22,7 @@
 
 ### Github stats
 
-[![Kate's github stats](https://github-readme-stats.vercel.app/api?username=katepark1009&theme=cobalt&show_icons=true&hide=stars,issues)](https://github.com/katepark1009/github-readme-stats)
+[![Kate's github stats](https://github-readme-stats.vercel.app/api?username=katepark1009&theme=material-palenight&show_icons=true&hide=stars,issues)](https://github.com/katepark1009/github-readme-stats)
 
 <img src="https://komarev.com/ghpvc/?username=katepark1009&color=ff69b4" alt="katepark1009" />
 
