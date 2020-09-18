@@ -9,3 +9,5 @@
 
 - ⚡ Fun fact **I love DIY! (knitting, painting, making miniature houses🏠, etc.)**
 
+[![Kate's github stats](https://github-readme-stats.vercel.app/api?username=katepark1009)](https://github.com/katepark1009/github-readme-stats)
+
