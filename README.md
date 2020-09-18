@@ -21,13 +21,6 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
-<details>
-  <summary>Github stats</summary>
-  <br>
-  <p>🥨<p>
-  ![Kate's github stats](https://github-readme-stats.vercel.app/api?username=katepark1009&theme=cobalt&show_icons=true&hide=stars,issues)
-</details>
-
 ## Github stats
 
 [![Kate's github stats](https://github-readme-stats.vercel.app/api?username=katepark1009&theme=cobalt&show_icons=true&hide=stars,issues)](https://github.com/katepark1009/github-readme-stats)
