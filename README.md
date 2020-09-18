@@ -32,7 +32,7 @@
 </a>
 
 <a href="https://github.com/katepark1009/katepark1009">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katepark1009&layout=compact&hide=html" alt="Kate's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katepark1009&layout=compact&hide=html&theme=material-palenight" alt="Kate's github stats" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=katepark1009&color=ff69b4" alt="katepark1009" />
