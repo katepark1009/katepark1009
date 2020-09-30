@@ -25,7 +25,10 @@
 ![](https://img.shields.io/badge/-Storybook-informational?style=flat&logo=book&logoColor=white&color=007BE0)
 ![](https://img.shields.io/badge/-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=007BE0)
 
-### Github stats
+### Contributes 💛
+- Translated [Intro to Storybook tutorials](https://www.learnstorybook.com/intro-to-storybook/react/kr/get-started/) in Korean
+
+### Github stats 💹
 
 <a href="https://github.com/katepark1009/katepark1009">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=katepark1009&show_icons=true&line_height=27&count_private=true&theme=material-palenight&show_icons=true&hide=stars,issues" alt="Kate's github stats" />
