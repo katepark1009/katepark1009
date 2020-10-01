@@ -23,7 +23,6 @@
 ![](https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=007BE0)
 ![](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=007BE0)
 ![](https://img.shields.io/badge/-Storybook-informational?style=flat&logo=book&logoColor=white&color=007BE0)
-![](https://img.shields.io/badge/-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=007BE0)
 
 ### Contributions 💛
 - Translated [Intro to Storybook tutorials](https://www.learnstorybook.com/intro-to-storybook/react/kr/get-started/) in Korean
